@@ -1,0 +1,8 @@
+node_modules/
+*.py
+build.js
+build-pdf.js
+make-pdf.js
+make-pdf.py
+package.json
+package-lock.json
